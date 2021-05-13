@@ -21,7 +21,7 @@ A tutorial on how to use Buster can be found [here](https://null-byte.wonderhowt
 clone the repository:
 
 ```bash
-$ git clone git://github.com/sham00n/buster
+$ git clone git://github.com/sham00n/buster.git
 ```
 
 Once you have a copy of the source, you can install it with:
@@ -157,4 +157,18 @@ $ buster -f john -l doe -c company.com
 
 ___
 
+## Donate
 
+## Wallet Indonesia
+
+OVO | Dana | gopay 
+
++6285600006369
+
+```bash
+## Atas Nama : REYNALDY ZANUAR RAMADHAN
+```
+
+## ©copy right 2021
+
+# By :®SecxXx.iĐ
